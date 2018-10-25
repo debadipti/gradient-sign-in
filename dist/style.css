@@ -97,7 +97,7 @@ body,
   cursor: pointer;
 }
 .wrapper .box-wrapper .form-input button:hover {
-  opacity: 0.8;
+  opacity: 0.9;
 }
 .wrapper span a {
   font-size: 0.8em;
