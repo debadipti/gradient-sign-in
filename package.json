@@ -1,0 +1,15 @@
+{
+  "name": "gradient-sign-in",
+  "version": "1.0.0",
+  "description": "A gradient Sign-in Form",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "debadipti",
+  "license": "MIT",
+  "homepage": "https://debadipti.github.io/gradient-sign-in",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
